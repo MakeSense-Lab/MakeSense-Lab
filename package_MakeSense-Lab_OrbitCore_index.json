@@ -20,7 +20,7 @@
             "online": "https://www.makesense-lab.com/products"
           },
 
-          "url": "https://github.com/MakeSense-Lab/MakeSense-Lab/releases/download/v1.0.0/MakeSense-Lab-v1.0.0.tar.gz",
+          "url": "https://github.com/MakeSense-Lab/MakeSense-Lab/archive/refs/tags/v1.0.0.tar.gz",
           "archiveFileName": "MakeSense-Lab-v1.0.0.tar.gz",
 
           "checksum": "SHA-256:7c77d3fa1e767ac5cb5e189365944d2a50a5ab8c54182a50ec79965d9ef889fe",
